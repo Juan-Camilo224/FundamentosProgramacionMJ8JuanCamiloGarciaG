@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Juan Camilo Garcia\FundamentosProgramacionMJ8JuanCamiloGarciaG\VariablesContales\VariablesContales\bin\Debug\VariablesContales.exe.config
+C:\Users\B09S104est\Documents\Juan Camilo Garcia\FundamentosProgramacionMJ8JuanCamiloGarciaG\VariablesContales\VariablesContales\bin\Debug\VariablesContales.exe
+C:\Users\B09S104est\Documents\Juan Camilo Garcia\FundamentosProgramacionMJ8JuanCamiloGarciaG\VariablesContales\VariablesContales\bin\Debug\VariablesContales.pdb
+C:\Users\B09S104est\Documents\Juan Camilo Garcia\FundamentosProgramacionMJ8JuanCamiloGarciaG\VariablesContales\VariablesContales\obj\Debug\VariablesContales.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Juan Camilo Garcia\FundamentosProgramacionMJ8JuanCamiloGarciaG\VariablesContales\VariablesContales\obj\Debug\VariablesContales.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Juan Camilo Garcia\FundamentosProgramacionMJ8JuanCamiloGarciaG\VariablesContales\VariablesContales\obj\Debug\VariablesContales.exe
+C:\Users\B09S104est\Documents\Juan Camilo Garcia\FundamentosProgramacionMJ8JuanCamiloGarciaG\VariablesContales\VariablesContales\obj\Debug\VariablesContales.pdb
