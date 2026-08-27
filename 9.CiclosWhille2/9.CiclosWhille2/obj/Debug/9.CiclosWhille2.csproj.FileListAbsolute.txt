@@ -1,0 +1,7 @@
+C:\Users\juanc\OneDrive\Documentos\Trabajos\9.CiclosWhille2\9.CiclosWhille2\bin\Debug\9.CiclosWhille2.exe.config
+C:\Users\juanc\OneDrive\Documentos\Trabajos\9.CiclosWhille2\9.CiclosWhille2\bin\Debug\9.CiclosWhille2.exe
+C:\Users\juanc\OneDrive\Documentos\Trabajos\9.CiclosWhille2\9.CiclosWhille2\bin\Debug\9.CiclosWhille2.pdb
+C:\Users\juanc\OneDrive\Documentos\Trabajos\9.CiclosWhille2\9.CiclosWhille2\obj\Debug\9.CiclosWhille2.csproj.AssemblyReference.cache
+C:\Users\juanc\OneDrive\Documentos\Trabajos\9.CiclosWhille2\9.CiclosWhille2\obj\Debug\9.CiclosWhille2.csproj.CoreCompileInputs.cache
+C:\Users\juanc\OneDrive\Documentos\Trabajos\9.CiclosWhille2\9.CiclosWhille2\obj\Debug\9.CiclosWhille2.exe
+C:\Users\juanc\OneDrive\Documentos\Trabajos\9.CiclosWhille2\9.CiclosWhille2\obj\Debug\9.CiclosWhille2.pdb
